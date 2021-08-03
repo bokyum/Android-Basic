@@ -89,7 +89,7 @@ class MainActivity : AppCompatActivity() {
             textView.text = numberPicker.value.toString()
 
             setNumberBackground(textView, numberPicker.value )
-            
+
 
             pickNumberSet.add(numberPicker.value)
 
